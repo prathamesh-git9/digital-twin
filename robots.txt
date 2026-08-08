@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prathamesh-git9.github.io/digital-twin/sitemap.xml
